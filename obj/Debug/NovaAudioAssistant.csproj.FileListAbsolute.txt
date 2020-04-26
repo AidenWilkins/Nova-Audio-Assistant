@@ -8,3 +8,5 @@ C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\NovaAudioAss
 C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\NovaAudioAssistant.csproj.CopyComplete
 C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\NovaAudioAssistant.exe
 C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\NovaAudioAssistant.pdb
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\NovaAudioAssistant.Properties.Resources.resources
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\NovaAudioAssistant.csproj.GenerateResource.cache

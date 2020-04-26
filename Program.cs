@@ -54,7 +54,7 @@ namespace NovaAudioAssistant
             // Setup Tray Icon
             NotifyIcon trayIcon = new NotifyIcon();
             trayIcon.Text = "Nova Audio Assistant";
-            trayIcon.Icon = new Icon(SystemIcons.Application, 40, 40);
+            trayIcon.Icon = new Icon(Properties.Resources.icons8_microphone_64, 40, 40);
 
             trayMenu.MenuItems.Add(new MenuItem("Show Console", (s, e) => 
             {
