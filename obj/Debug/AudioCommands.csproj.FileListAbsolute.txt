@@ -1,0 +1,11 @@
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\bin\Debug\AudioCommands.exe.config
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\bin\Debug\AudioCommands.exe
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\bin\Debug\AudioCommands.pdb
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\AudioCommands.csproj.CoreCompileInputs.cache
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\AudioCommands.exe
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\AudioCommands.pdb
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\AudioCommands.csproj.CopyComplete
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\bin\Debug\Microsoft.Speech.dll
+C:\Users\aiden\source\repos\Nova jar Runner\AudioCommands\obj\Debug\AudioCommands.csprojAssemblyReference.cache
