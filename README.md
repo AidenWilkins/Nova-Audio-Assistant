@@ -6,3 +6,5 @@ It comes with a base set of commands that can control spotify, system volume, pl
 More Info and Executable download at https://novastudios.tk/Projects/NovaAudioAssistant/project.php
 
 Wiki and Add-on Libarary dll also located at https://novastudios.tk/Projects/NovaAudioAssistant/wiki.php
+
+Please note that the Wiki and main page is still a WIP and may be missing somethings
