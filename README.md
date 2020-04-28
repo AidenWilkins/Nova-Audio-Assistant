@@ -7,4 +7,6 @@ More Info and Executable download at https://novastudios.tk/Projects/NovaAudioAs
 
 Wiki and Add-on Libarary dll also located at https://novastudios.tk/Projects/NovaAudioAssistant/wiki.php
 
+Source Code for Addon Library: https://github.com/AidenWilkins/NovaAudioAssistantLib
+
 Please note that the Wiki and main page is still a WIP and may be missing somethings
