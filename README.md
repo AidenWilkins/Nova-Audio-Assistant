@@ -10,3 +10,5 @@ Wiki and Add-on Libarary dll also located at https://novastudios.tk/Projects/Nov
 Source Code for Addon Library: https://github.com/AidenWilkins/NovaAudioAssistantLib
 
 Please note that the Wiki and main page is still a WIP and may be missing somethings
+
+I would love feedback on this, suggestion are welcome and feel free to share your add-on here aswell
