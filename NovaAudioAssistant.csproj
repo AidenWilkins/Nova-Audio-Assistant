@@ -104,9 +104,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CustomCommand.xml">
-      <SubType>Designer</SubType>
-    </Content>
     <Content Include="icons8-microphone-64.ico" />
     <None Include="Resources\icons8-microphone-64.ico" />
   </ItemGroup>
